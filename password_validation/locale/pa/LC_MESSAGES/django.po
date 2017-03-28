@@ -1,0 +1,56 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# A S Alam <apreet.alam@gmail.com>, 2013
+# Jannis Leidel <jannis@leidel.info>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 10:27-0500\n"
+"PO-Revision-Date: 2016-05-21 08:38+0000\n"
+"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/django/django/"
+"language/pa/)\n"
+"Language: pa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: validation.py:109
+#, python-format
+msgid ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr ""
+
+#: validation.py:115
+#, python-format
+msgid "Your password must contain at least %(min_length)d characters."
+msgstr ""
+
+#: validation.py:148
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr ""
+
+#: validation.py:154
+msgid "Your password can't be too similar to your other personal information."
+msgstr ""
+
+#: validation.py:179
+msgid "This password is too common."
+msgstr ""
+
+#: validation.py:184
+msgid "Your password can't be a commonly used password."
+msgstr ""
+
+#: validation.py:194
+msgid "This password is entirely numeric."
+msgstr ""
+
+#: validation.py:199
+msgid "Your password can't be entirely numeric."
+msgstr ""

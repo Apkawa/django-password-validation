@@ -1,0 +1,56 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011
+# Shinya Okano <tokibito@gmail.com>, 2013-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 10:27-0500\n"
+"PO-Revision-Date: 2016-05-26 16:41+0000\n"
+"Last-Translator: Shinya Okano <tokibito@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/django/django/language/"
+"ja/)\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: validation.py:109
+#, python-format
+msgid ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr "このパスワードは短すぎます。最低 %(min_length)d 文字以上必要です。"
+
+#: validation.py:115
+#, python-format
+msgid "Your password must contain at least %(min_length)d characters."
+msgstr "パスワードは最低 %(min_length)d 文字以上必要です。"
+
+#: validation.py:148
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "このパスワードは %(verbose_name)s と似すぎています。"
+
+#: validation.py:154
+msgid "Your password can't be too similar to your other personal information."
+msgstr "あなたの他の個人情報と似ているパスワードにはできません。"
+
+#: validation.py:179
+msgid "This password is too common."
+msgstr "このパスワードは一般的すぎます。"
+
+#: validation.py:184
+msgid "Your password can't be a commonly used password."
+msgstr "よく使われるパスワードにはできません。"
+
+#: validation.py:194
+msgid "This password is entirely numeric."
+msgstr "このパスワードは数字しか使われていません。"
+
+#: validation.py:199
+msgid "Your password can't be entirely numeric."
+msgstr "数字だけのパスワードにはできません。"

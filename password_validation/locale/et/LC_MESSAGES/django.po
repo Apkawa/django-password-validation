@@ -1,0 +1,61 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011
+# Janno Liivak <jannolii@gmail.com>, 2013,2015
+# madisvain <madisvain@gmail.com>, 2011
+# Martin Pajuste <martinpajuste@gmail.com>, 2015
+# Martin Pajuste <martinpajuste@gmail.com>, 2016
+# Marti Raudsepp <marti@juffo.org>, 2014,2016
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 10:27-0500\n"
+"PO-Revision-Date: 2016-07-18 21:34+0000\n"
+"Last-Translator: Marti Raudsepp <marti@juffo.org>\n"
+"Language-Team: Estonian (http://www.transifex.com/django/django/language/"
+"et/)\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: validation.py:109
+#, python-format
+msgid ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr ""
+"Salasõna on liiga lühike. Selles peab olema vähemalt %(min_length)d täht."
+
+#: validation.py:115
+#, python-format
+msgid "Your password must contain at least %(min_length)d characters."
+msgstr "Salasõna peab sisaldama vähemalt %(min_length)d tähte."
+
+#: validation.py:148
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "Salasõna ja %(verbose_name)s on liiga sarnased."
+
+#: validation.py:154
+msgid "Your password can't be too similar to your other personal information."
+msgstr "Salasõna ei tohi olla liialt sarnane sinu üldinfos määratuga."
+
+#: validation.py:179
+msgid "This password is too common."
+msgstr "Salasõna on liiga teada-tuntud."
+
+#: validation.py:184
+msgid "Your password can't be a commonly used password."
+msgstr "Salasõna ei tohi olla teada-tuntud salasõna."
+
+#: validation.py:194
+msgid "This password is entirely numeric."
+msgstr "See salasõna koosneb ainult numbritest."
+
+#: validation.py:199
+msgid "Your password can't be entirely numeric."
+msgstr "Salasõna ei tohi koosneda ainult numbritest."

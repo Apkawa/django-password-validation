@@ -1,4 +1,7 @@
 django_password_validation.egg-info/
+*.pyc
+.cache
+.idea
 htmlcov/
 .tox/
 doc/_build/

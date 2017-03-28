@@ -1,0 +1,60 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# David Forgoz <david.forgoz@gmail.com>, 2012
+# Jannis Leidel <jannis@leidel.info>, 2011
+# Rag sagar <ragsagar@gmail.com>, 2016
+# Rajeesh Nair <rajeeshrnair@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 10:27-0500\n"
+"PO-Revision-Date: 2016-05-23 18:44+0000\n"
+"Last-Translator: Rag sagar <ragsagar@gmail.com>\n"
+"Language-Team: Malayalam (http://www.transifex.com/django/django/language/"
+"ml/)\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: validation.py:109
+#, python-format
+msgid ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr ""
+"ഈ രഹസ്യവാക്ക് വളരെ ചെറുതാണ്. രഹസ്യവാക്കിൽ കുറഞ്ഞത് %(min_length)d അക്ഷരമെങ്കിലും വേണം."
+
+#: validation.py:115
+#, python-format
+msgid "Your password must contain at least %(min_length)d characters."
+msgstr "താങ്കളുടെ രഹസ്യവാക്കിൽ കുറഞ്ഞത് %(min_length)d അക്ഷരമെങ്കിലും ഉണ്ടാവണം."
+
+#: validation.py:148
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "ഈ രഹസ്യവാക്കിനു %(verbose_name)s ആയി  വളരെ സാമ്യം കാണുന്നു."
+
+#: validation.py:154
+msgid "Your password can't be too similar to your other personal information."
+msgstr ""
+"താങ്കളുടെ മറ്റു വ്യക്തി വിവരുങ്ങളുമായി താങ്കളുടെ രഹസ്യവാക്കിനു ഒരുപാട് സാമ്യമുണ്ടാകാൻ പാടില്ല."
+
+#: validation.py:179
+msgid "This password is too common."
+msgstr "ഈ രഹസ്യവാക്ക് വളരെ സാധാരണമാണ്."
+
+#: validation.py:184
+msgid "Your password can't be a commonly used password."
+msgstr "താങ്കളുടെ രഹസ്യവാക്ക് വളരെ സാധാരണമായ ഒരു രഹസ്യവാക്കാകാൻ പാടില്ല."
+
+#: validation.py:194
+msgid "This password is entirely numeric."
+msgstr "ഈ രഹസ്യവാക്ക് മുഴുവനും അക്കങ്ങൾ മാത്രമാണ്."
+
+#: validation.py:199
+msgid "Your password can't be entirely numeric."
+msgstr "താങ്കളുടെ രഹസ്യവാക്ക് മുഴുവനായി അക്കങ്ങൾ മാത്രമാകാൻ പാടില്ല."

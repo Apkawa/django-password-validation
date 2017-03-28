@@ -1,0 +1,59 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011
+# jensadne <jensadne@pvv.ntnu.no>, 2014
+# Jon <jon@funkbit.no>, 2015-2016
+# Jon <jon@funkbit.no>, 2013
+# Sigurd Gartmann <sigurdga-transifex@sigurdga.no>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 10:27-0500\n"
+"PO-Revision-Date: 2016-07-27 09:09+0000\n"
+"Last-Translator: Jon <jon@funkbit.no>\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/django/django/"
+"language/nb/)\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: validation.py:109
+#, python-format
+msgid ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr "Passordet er for kort. Det må bestå av minst %(min_length)d tegn."
+
+#: validation.py:115
+#, python-format
+msgid "Your password must contain at least %(min_length)d characters."
+msgstr "Passordet ditt må bestå av minst %(min_length)d tegn."
+
+#: validation.py:148
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "Passordet er for likt %(verbose_name)s."
+
+#: validation.py:154
+msgid "Your password can't be too similar to your other personal information."
+msgstr "Passordet ditt kan ikke være for likt dine andre personopplysninger."
+
+#: validation.py:179
+msgid "This password is too common."
+msgstr "Dette passordet er for vanlig."
+
+#: validation.py:184
+msgid "Your password can't be a commonly used password."
+msgstr "Passordet ditt kan ikke være et ofte brukt passord."
+
+#: validation.py:194
+msgid "This password is entirely numeric."
+msgstr "Dette passordet inneholder bare tall."
+
+#: validation.py:199
+msgid "Your password can't be entirely numeric."
+msgstr "Passordet ditt kan ikke inneholde bare tall."

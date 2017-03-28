@@ -15,5 +15,8 @@ DATABASES = {
         'NAME': os.path.join(HERE, 'test.sqlite'),
     }
 }
+LOCALE_PATHS = (
+    os.path.join(HERE, '../locale'),
+)
 
 SILENCED_SYSTEM_CHECKS = ['1_7.W001']

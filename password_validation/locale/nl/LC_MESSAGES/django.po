@@ -1,0 +1,65 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# Bas Peschier <bas.peschier@gmail.com>, 2013
+# Erik Romijn <transifex@solidlinks.nl>, 2013
+# Erik Romijn <transifex@solidlinks.nl>, 2013
+# Harro van der Klauw <hvdklauw@gmail.com>, 2012
+# Ilja Maas <iljamaas@dreamsolution.nl>, 2015
+# jaap3 <jaap.roes@gmail.com>, 2016
+# Jannis Leidel <jannis@leidel.info>, 2011
+# Jeffrey Gelens <jeffrey@noppo.pro>, 2011-2012
+# Sander Steffann <sander@steffann.nl>, 2015
+# Tino de Bruijn <tinodb@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 10:27-0500\n"
+"PO-Revision-Date: 2016-05-21 08:39+0000\n"
+"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Language-Team: Dutch (http://www.transifex.com/django/django/language/nl/)\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: validation.py:109
+#, python-format
+msgid ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr ""
+"Dit wachtwoord is te kort. De minimum lengte is %(min_length)d karakter."
+
+#: validation.py:115
+#, python-format
+msgid "Your password must contain at least %(min_length)d characters."
+msgstr "Uw wachtwoord moet minimaal %(min_length)d karakter lang zijn."
+
+#: validation.py:148
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "Het wachtwoord lijkt te veel op de %(verbose_name)s."
+
+#: validation.py:154
+msgid "Your password can't be too similar to your other personal information."
+msgstr ""
+"Uw wachtwoord mag niet te veel lijken op uw overige persoonlijke informatie."
+
+#: validation.py:179
+msgid "This password is too common."
+msgstr "Dit wachtwoord is te generiek."
+
+#: validation.py:184
+msgid "Your password can't be a commonly used password."
+msgstr "Uw wachtwoord mag geen veelgebruikt wachtwoord zijn."
+
+#: validation.py:194
+msgid "This password is entirely numeric."
+msgstr "Uw wachtwoord bevat alleen cijfers."
+
+#: validation.py:199
+msgid "Your password can't be entirely numeric."
+msgstr "Uw wachtwoord mag niet volledig uit cijfers bestaan."

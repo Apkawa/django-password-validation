@@ -1,0 +1,65 @@
+# This file is distributed under the same license as the Django package.
+#
+# Translators:
+# GunChleoc, 2015-2016
+# GunChleoc, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: django\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-28 10:27-0500\n"
+"PO-Revision-Date: 2016-05-21 10:24+0000\n"
+"Last-Translator: GunChleoc\n"
+"Language-Team: Gaelic, Scottish (http://www.transifex.com/django/django/"
+"language/gd/)\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
+"(n > 2 && n < 20) ? 2 : 3;\n"
+
+#: validation.py:109
+#, python-format
+msgid ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr ""
+"Tha am facal-faire seo ro ghoirid. Feumaidh %(min_length)d charactar a bhith "
+"ann air a char as lugha."
+
+#: validation.py:115
+#, python-format
+msgid "Your password must contain at least %(min_length)d characters."
+msgstr ""
+"Feumaidh %(min_length)d charactar a bhith san fhacal-fhaire agad air a char "
+"as lugha."
+
+#: validation.py:148
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "Tha am facal-faire agad ro choltach ri %(verbose_name)s."
+
+#: validation.py:154
+msgid "Your password can't be too similar to your other personal information."
+msgstr ""
+"Chan fhaod am facal-faire agad a bhith ro choltach ris an fhiosrachadh "
+"phearsanta eile agad."
+
+#: validation.py:179
+msgid "This password is too common."
+msgstr "Tha am facal-faire seo ro chumanta."
+
+#: validation.py:184
+msgid "Your password can't be a commonly used password."
+msgstr ""
+"Chan fhaod thu facal-faire a chleachdadh a chleachd mòran daoine mar-thà."
+
+#: validation.py:194
+msgid "This password is entirely numeric."
+msgstr "Chan eil ach àireamhan san fhacal-fhaire seo.ac"
+
+#: validation.py:199
+msgid "Your password can't be entirely numeric."
+msgstr ""
+"Feumaidh caractaran a bhith san fhacal-fhaire agad nach eil ’nan àireamhan."
